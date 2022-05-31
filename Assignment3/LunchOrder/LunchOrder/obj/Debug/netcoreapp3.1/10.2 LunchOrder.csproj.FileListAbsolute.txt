@@ -1,0 +1,16 @@
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\10.2 LunchOrder.csproj.AssemblyReference.cache
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.Form1.resources
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\10.2 LunchOrder.csproj.GenerateResource.cache
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\10.2 LunchOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\10.2 LunchOrder.AssemblyInfoInputs.cache
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\10.2 LunchOrder.AssemblyInfo.cs
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\10.2 LunchOrder.csproj.CoreCompileInputs.cache
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\10.2 LunchOrder.exe
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\10.2 LunchOrder.deps.json
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\10.2 LunchOrder.runtimeconfig.json
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\10.2 LunchOrder.runtimeconfig.dev.json
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\10.2 LunchOrder.dll
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\10.2 LunchOrder.pdb
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\10.2 LunchOrder.dll
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\10.2 LunchOrder.pdb
+C:\Users\17097\source\repos\Assignment3\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\10.2 LunchOrder.genruntimeconfig.cache
